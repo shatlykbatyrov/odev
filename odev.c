@@ -16,6 +16,6 @@ int main(){
     vki = kilo/(pow(boy/100,2));
     
     //Ekrana yazdirma
-    printf("\n\nMerhaba %s, kutlen:%.1f, boyun:%.1f, vkin:%.1f\ngule gule", isim, kilo, boy, vki);
+    printf("\n\nMerhaba %s, kutlen:%.1f kg, boyun:%.1f cm, vkin:%.1f\ngule gule", isim, kilo, boy, vki);
     return 0;
 }
